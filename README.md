@@ -1,2 +1,0 @@
-# redtail
-Test design tokens
